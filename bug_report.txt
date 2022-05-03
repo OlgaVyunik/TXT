@@ -1,0 +1,15 @@
+Bug Report
+
+ID: 01
+Component: CART
+Issue Type: Functional
+Title: "Opps, someting went wrong page" is displayed when clicking on VIEW CART in mini cart overlay
+Steps To Reproduce:
+    1) Add Product To Cart
+    2) Open the Mini Cart on the top right corner (via header)
+    3) Click on View Cart and get "Oops... " page
+    IMPORTANT NOTE! If you go to home page and hit REFRESH thn you can actually open the cart clicking on VIEW CART from the overlay. 
+Expected Result: 
+    Shopping Cart Page opens and shows list of all Products/Items.
+Actual Result:
+    A page "Ooops! Something went wrong!" is disaplyed.
